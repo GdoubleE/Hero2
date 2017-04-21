@@ -1,0 +1,6 @@
+E:\pluralsight\AndreCSharp\HeroesWorld_Day2\obj\Debug\HeroesWorld_Day2.csprojResolveAssemblyReference.cache
+E:\pluralsight\AndreCSharp\HeroesWorld_Day2\bin\Debug\HeroesWorld_Day2.exe.config
+E:\pluralsight\AndreCSharp\HeroesWorld_Day2\bin\Debug\HeroesWorld_Day2.exe
+E:\pluralsight\AndreCSharp\HeroesWorld_Day2\bin\Debug\HeroesWorld_Day2.pdb
+E:\pluralsight\AndreCSharp\HeroesWorld_Day2\obj\Debug\HeroesWorld_Day2.exe
+E:\pluralsight\AndreCSharp\HeroesWorld_Day2\obj\Debug\HeroesWorld_Day2.pdb
